@@ -1,2 +1,2 @@
 # Coldplay-lyrics-Generation
-Character based and Word based RNN from scratch.
+Building character based and Word based RNN from scratch.
